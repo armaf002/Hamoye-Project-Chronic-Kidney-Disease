@@ -6,9 +6,7 @@
 
 Chronic Kidney Disease (CKD) is a progressive and long-term condition characterized by the gradual loss of kidney function. This project aims to develop a machine learning model that can predict the likelihood of an individual being diagnosed with chronic kidney disease using a provided dataset. By leveraging the power of machine learning algorithms, the goal is to create a predictive model that can assist in early detection and diagnosis of CKD, enabling timely intervention and treatment.
 
-## Problem Statement
-
-Chronic Kidney Disease poses a significant burden on individuals, healthcare systems, and society as a whole. This README file outlines the problem statement, data gathering process, exploratory data analysis, data cleaning and preprocessing steps, model development and evaluation, and model deployment using the Streamlit framework.
+Chronic Kidney Disease poses a significant burden on individuals, healthcare systems, and society as a whole. This README file outlines the Flow process of the project, data gathering process, exploratory data analysis, data cleaning and preprocessing steps, model development and evaluation, and model deployment using the Streamlit framework.
 
 ## Flow Process
 
